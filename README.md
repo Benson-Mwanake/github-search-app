@@ -70,7 +70,7 @@ Each repository is displayed as a clickable link.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/github-search-app.git
+git clone git@github.com:Benson-Mwanake/github-search-app.git
 ```
 
 2. Navigate into the project folder:
